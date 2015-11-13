@@ -23,10 +23,3 @@ $('.panel').on('click', function() {
 	}
 
 });
-
-
-
-
-
-
-
